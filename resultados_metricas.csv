@@ -1,0 +1,51 @@
+Objeto,Camera,Luz,Classificacao_Luz,SSIM,MSE
+caneca,Samsung S20 FE,D50,branca fraca,0.7896,296.27
+caneca,Samsung S20 FE,D65,branca forte,0.7804,1327.62
+caneca,Samsung S20 FE,INC100,amarela forte,0.7603,1294.28
+caneca,Samsung S20 FE,INC40,amarela fraca,0.7851,787.74
+caneca,Samsung S24,D50,branca fraca,0.7334,471.65
+caneca,Samsung S24,D65,branca forte,0.7884,1032.48
+caneca,Samsung S24,INC100,amarela forte,0.7827,1383.06
+caneca,Samsung S24,INC40,amarela fraca,0.7738,684.11
+caneca,Sony DSC-H50,D50,branca fraca,0.6216,2849.38
+caneca,Sony DSC-H50,INC40,amarela fraca,0.6474,3290.14
+controle,Samsung S20 FE,D50,branca fraca,0.7432,2638.56
+controle,Samsung S20 FE,D65,branca forte,0.7453,1309.81
+controle,Samsung S20 FE,INC100,amarela forte,0.7758,1789.66
+controle,Samsung S20 FE,INC40,amarela fraca,0.72,1051.46
+controle,Samsung S24,D50,branca fraca,0.7182,1163.42
+controle,Samsung S24,D65,branca forte,0.7603,1859.53
+controle,Samsung S24,INC100,amarela forte,0.7536,1954.36
+controle,Samsung S24,INC40,amarela fraca,0.7509,1335.13
+controle,Sony DSC-H50,D50,branca fraca,0.6118,3144.2
+controle,Sony DSC-H50,INC40,amarela fraca,0.6589,3536.88
+jk,Samsung S20 FE,D50,branca fraca,0.7194,586.62
+jk,Samsung S20 FE,D65,branca forte,0.7368,1555.31
+jk,Samsung S20 FE,INC100,amarela forte,0.7401,1082.12
+jk,Samsung S20 FE,INC40,amarela fraca,0.7,691.43
+jk,Samsung S24,D50,branca fraca,0.757,635.99
+jk,Samsung S24,D65,branca forte,0.7719,748.11
+jk,Samsung S24,INC100,amarela forte,0.7798,1043.85
+jk,Samsung S24,INC40,amarela fraca,0.7582,630.15
+jk,Sony DSC-H50,D50,branca fraca,0.5907,2701.19
+jk,Sony DSC-H50,INC40,amarela fraca,0.6176,3531.06
+stitch,Samsung S20 FE,D50,branca fraca,0.7256,1201.5
+stitch,Samsung S20 FE,D65,branca forte,0.7144,2339.48
+stitch,Samsung S20 FE,INC100,amarela forte,0.7301,1824.11
+stitch,Samsung S20 FE,INC40,amarela fraca,0.6773,1327.99
+stitch,Samsung S24,D50,branca fraca,0.6571,1284.71
+stitch,Samsung S24,D65,branca forte,0.7126,2053.97
+stitch,Samsung S24,INC100,amarela forte,0.7584,1228.02
+stitch,Samsung S24,INC40,amarela fraca,0.7401,848.15
+stitch,Sony DSC-H50,D50,branca fraca,0.5922,3014.98
+stitch,Sony DSC-H50,INC40,amarela fraca,0.6528,2899.92
+urso,Samsung S20 FE,D50,branca fraca,0.6205,1106.93
+urso,Samsung S20 FE,D65,branca forte,0.7052,1283.86
+urso,Samsung S20 FE,INC100,amarela forte,0.6385,1520.36
+urso,Samsung S20 FE,INC40,amarela fraca,0.6452,1340.62
+urso,Samsung S24,D50,branca fraca,0.739,1376.91
+urso,Samsung S24,D65,branca forte,0.749,1369.18
+urso,Samsung S24,INC100,amarela forte,0.7208,946.33
+urso,Samsung S24,INC40,amarela fraca,0.7133,1229.2
+urso,Sony DSC-H50,D50,branca fraca,0.5937,3793.85
+urso,Sony DSC-H50,INC40,amarela fraca,0.6128,2685.45
