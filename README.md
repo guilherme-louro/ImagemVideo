@@ -33,7 +33,7 @@ pip3 install pillow pillow-heif numpy pandas scikit-image matplotlib
 ## Procedimento
 
 ### 1. Renomear as imagens para identificar
-Todos os arquivos originais foram renomeados para <objeto>_<tipo de iluminação>_<câmera ou celular utilizado>.<formato> com o intuito de identificar o objeto, tipo de iluminação e aparelho utilizado para capturar a foto.
+Todos os arquivos originais foram renomeados para `<objeto>_<tipo de iluminação>_<câmera ou celular utilizado>.<formato>` com o intuito de identificar o objeto, tipo de iluminação e aparelho utilizado para capturar a foto.
 
 ### 2. Padronizar tamanho: recortar e redimensionar
 Como as imagens eram de amostragens diferentes, a metodologia utilizada foi de pegar a menor imagem e usar sua altura como referência de tamanho. No caso do nosso experimento, a menor altura era a da imagem com a câmera Sony DSC-H50, na qual as imagens são de dimensões de 3456 × 1944. Abaixo, um exemplo da imagem original do controle com luz branca pela câmera Sony DSC-H50.
