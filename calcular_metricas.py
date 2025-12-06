@@ -92,6 +92,7 @@ class AnalisadorImagens:
         """Processa uma pasta de objeto (ex: caneca_resize)"""
         dados = []
         nome_objeto = pasta_objeto.replace('_resize', '')
+        nome_objeto = nome_objeto.replace('originals/', '')
         
         logging.info(f"Processando objeto: {nome_objeto}")
         
@@ -107,9 +108,9 @@ class AnalisadorImagens:
             
             # Determinar imagem de referência baseado na subpasta
             if subpasta == 'amarela':
-                padrao_ref = f"{nome_objeto}_INC100_DSC-H50"
+                padrao_ref = f"{nome_objeto}_INC100_referencia.JPG"
             else:  # branca
-                padrao_ref = f"{nome_objeto}_D65_DSC-H50"
+                padrao_ref = f"{nome_objeto}_D65_referencia.JPG"
             
             # Encontrar imagem de referência
             imagem_ref = None
@@ -121,7 +122,7 @@ class AnalisadorImagens:
                     break
             
             if not caminho_ref:
-                logging.warning(f"Imagem de referência não encontrada para {nome_objeto}/{subpasta}")
+                logging.warning(f"Imagem de referência não encontrada para {pasta_objeto}/{subpasta}")
                 continue
             
             # Carregar imagem de referência
@@ -209,7 +210,7 @@ def main():
     dados_totais = []
     
     # Lista de pastas a serem processadas
-    pastas_objetos = ['caneca_resize', 'controle_resize', 'jk_resize', 'stitch_resize', 'urso_resize']
+    pastas_objetos = ['originals/Caneca_resize', 'originals/Controle_resize', 'originals/JK_resize', 'originals/Stitch_resize', 'originals/Urso_resize']
     
     # Processar cada pasta
     for pasta in pastas_objetos:

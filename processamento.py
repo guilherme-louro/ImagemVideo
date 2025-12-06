@@ -11,10 +11,10 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 def processar_imagens():
     # Lista de pastas a serem processadas
-    pastas_origem = ['caneca', 'controle', 'jk', 'stitch', 'urso']
+    pastas_origem = ['originals/Caneca', 'originals/Controle', 'originals/JK', 'originals/Stitch', 'originals/Urso']
     
     # Configurações
-    tamanho_final = (1944, 1944)  # 1944x1944 pixels
+    tamanho_final = (2400, 1344)  # 1944x1944 pixels
     
     for pasta in pastas_origem:
         # Verificar se a pasta de origem existe
@@ -33,7 +33,7 @@ def processar_imagens():
         
         for arquivo in os.listdir(pasta):
             # Verificar se é uma imagem (suporta vários formatos)
-            extensoes_validas = ('.jpg', '.jpeg', '.png', '.heic', '.HEIC', '.bmp', '.gif')
+            extensoes_validas = ('.jpg', '.jpeg', '.png', '.heic', '.HEIC', '.bmp', '.gif', '.dng')
             if not arquivo.lower().endswith(extensoes_validas):
                 continue
             

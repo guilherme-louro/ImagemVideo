@@ -1,51 +1,81 @@
 Objeto,Camera,Luz,Classificacao_Luz,SSIM,MSE
-caneca,Samsung S20 FE,D50,branca fraca,0.7896,296.27
-caneca,Samsung S20 FE,D65,branca forte,0.7804,1327.62
-caneca,Samsung S20 FE,INC100,amarela forte,0.7603,1294.28
-caneca,Samsung S20 FE,INC40,amarela fraca,0.7851,787.74
-caneca,Samsung S24,D50,branca fraca,0.7334,471.65
-caneca,Samsung S24,D65,branca forte,0.7884,1032.48
-caneca,Samsung S24,INC100,amarela forte,0.7827,1383.06
-caneca,Samsung S24,INC40,amarela fraca,0.7738,684.11
-caneca,Sony DSC-H50,D50,branca fraca,0.6216,2849.38
-caneca,Sony DSC-H50,INC40,amarela fraca,0.6474,3290.14
-controle,Samsung S20 FE,D50,branca fraca,0.7432,2638.56
-controle,Samsung S20 FE,D65,branca forte,0.7453,1309.81
-controle,Samsung S20 FE,INC100,amarela forte,0.7758,1789.66
-controle,Samsung S20 FE,INC40,amarela fraca,0.72,1051.46
-controle,Samsung S24,D50,branca fraca,0.7182,1163.42
-controle,Samsung S24,D65,branca forte,0.7603,1859.53
-controle,Samsung S24,INC100,amarela forte,0.7536,1954.36
-controle,Samsung S24,INC40,amarela fraca,0.7509,1335.13
-controle,Sony DSC-H50,D50,branca fraca,0.6118,3144.2
-controle,Sony DSC-H50,INC40,amarela fraca,0.6589,3536.88
-jk,Samsung S20 FE,D50,branca fraca,0.7194,586.62
-jk,Samsung S20 FE,D65,branca forte,0.7368,1555.31
-jk,Samsung S20 FE,INC100,amarela forte,0.7401,1082.12
-jk,Samsung S20 FE,INC40,amarela fraca,0.7,691.43
-jk,Samsung S24,D50,branca fraca,0.757,635.99
-jk,Samsung S24,D65,branca forte,0.7719,748.11
-jk,Samsung S24,INC100,amarela forte,0.7798,1043.85
-jk,Samsung S24,INC40,amarela fraca,0.7582,630.15
-jk,Sony DSC-H50,D50,branca fraca,0.5907,2701.19
-jk,Sony DSC-H50,INC40,amarela fraca,0.6176,3531.06
-stitch,Samsung S20 FE,D50,branca fraca,0.7256,1201.5
-stitch,Samsung S20 FE,D65,branca forte,0.7144,2339.48
-stitch,Samsung S20 FE,INC100,amarela forte,0.7301,1824.11
-stitch,Samsung S20 FE,INC40,amarela fraca,0.6773,1327.99
-stitch,Samsung S24,D50,branca fraca,0.6571,1284.71
-stitch,Samsung S24,D65,branca forte,0.7126,2053.97
-stitch,Samsung S24,INC100,amarela forte,0.7584,1228.02
-stitch,Samsung S24,INC40,amarela fraca,0.7401,848.15
-stitch,Sony DSC-H50,D50,branca fraca,0.5922,3014.98
-stitch,Sony DSC-H50,INC40,amarela fraca,0.6528,2899.92
-urso,Samsung S20 FE,D50,branca fraca,0.6205,1106.93
-urso,Samsung S20 FE,D65,branca forte,0.7052,1283.86
-urso,Samsung S20 FE,INC100,amarela forte,0.6385,1520.36
-urso,Samsung S20 FE,INC40,amarela fraca,0.6452,1340.62
-urso,Samsung S24,D50,branca fraca,0.739,1376.91
-urso,Samsung S24,D65,branca forte,0.749,1369.18
-urso,Samsung S24,INC100,amarela forte,0.7208,946.33
-urso,Samsung S24,INC40,amarela fraca,0.7133,1229.2
-urso,Sony DSC-H50,D50,branca fraca,0.5937,3793.85
-urso,Sony DSC-H50,INC40,amarela fraca,0.6128,2685.45
+Caneca,Samsung S20 FE,D50,branca fraca,0.8657,1161.57
+Caneca,Samsung S20 FE,D65,branca forte,0.8969,450.14
+Caneca,Samsung S20 FE,INC100,amarela forte,0.8587,561.61
+Caneca,Samsung S20 FE,INC40,amarela fraca,0.877,472.54
+Caneca,Samsung S24,D50,branca fraca,0.8024,1415.68
+Caneca,Samsung S24,D65,branca forte,0.8926,598.75
+Caneca,Samsung S24,INC100,amarela forte,0.8732,794.59
+Caneca,Samsung S24,INC40,amarela fraca,0.8442,748.52
+Caneca,Sony DSC-H50,D50,branca fraca,0.6319,6118.43
+Caneca,Sony DSC-H50,D65,branca forte,0.8143,997.43
+Caneca,Sony DSC-H50,INC100,amarela forte,0.8281,976.98
+Caneca,Sony DSC-H50,INC40,amarela fraca,0.6603,5915.03
+Caneca,iPhone 15 Pro,D50,branca fraca,0.8598,2705.55
+Caneca,iPhone 15 Pro,D65,branca forte,0.9204,720.32
+Caneca,iPhone 15 Pro,INC100,amarela forte,0.9114,738.4
+Caneca,iPhone 15 Pro,INC40,amarela fraca,0.8953,1117.26
+Controle,Samsung S20 FE,D50,branca fraca,0.8858,782.95
+Controle,Samsung S20 FE,D65,branca forte,0.872,832.79
+Controle,Samsung S20 FE,INC100,amarela forte,0.835,1903.65
+Controle,Samsung S20 FE,INC40,amarela fraca,0.7909,998.49
+Controle,Samsung S24,D50,branca fraca,0.8029,1431.65
+Controle,Samsung S24,D65,branca forte,0.8516,1286.91
+Controle,Samsung S24,INC100,amarela forte,0.7972,2361.9
+Controle,Samsung S24,INC40,amarela fraca,0.7805,2174.01
+Controle,Sony DSC-H50,D50,branca fraca,0.6827,4905.53
+Controle,Sony DSC-H50,D65,branca forte,0.7701,2144.73
+Controle,Sony DSC-H50,INC100,amarela forte,0.7985,1721.66
+Controle,Sony DSC-H50,INC40,amarela fraca,0.6412,6353.99
+Controle,iPhone 15 Pro,D50,branca fraca,0.8672,1770.36
+Controle,iPhone 15 Pro,D65,branca forte,0.9065,753.59
+Controle,iPhone 15 Pro,INC100,amarela forte,0.9004,788.7
+Controle,iPhone 15 Pro,INC40,amarela fraca,0.8958,843.39
+JK,Samsung S20 FE,D50,branca fraca,0.8173,1791.63
+JK,Samsung S20 FE,D65,branca forte,0.8785,729.72
+JK,Samsung S20 FE,INC100,amarela forte,0.8484,761.56
+JK,Samsung S20 FE,INC40,amarela fraca,0.8011,794.49
+JK,Samsung S24,D50,branca fraca,0.8487,1767.38
+JK,Samsung S24,D65,branca forte,0.8595,2049.46
+JK,Samsung S24,INC100,amarela forte,0.8497,2193.5
+JK,Samsung S24,INC40,amarela fraca,0.8445,1073.04
+JK,Sony DSC-H50,D50,branca fraca,0.6411,5943.55
+JK,Sony DSC-H50,D65,branca forte,0.8069,1333.67
+JK,Sony DSC-H50,INC100,amarela forte,0.8215,1046.46
+JK,Sony DSC-H50,INC40,amarela fraca,0.66,5973.8
+JK,iPhone 15 Pro,D50,branca fraca,0.8348,3402.86
+JK,iPhone 15 Pro,D65,branca forte,0.8853,1803.48
+JK,iPhone 15 Pro,INC100,amarela forte,0.885,1348.48
+JK,iPhone 15 Pro,INC40,amarela fraca,0.8797,1664.35
+Stitch,Samsung S20 FE,D50,branca fraca,0.8284,1680.04
+Stitch,Samsung S20 FE,D65,branca forte,0.8561,962.0
+Stitch,Samsung S20 FE,INC100,amarela forte,0.8168,998.9
+Stitch,Samsung S20 FE,INC40,amarela fraca,0.75,1069.44
+Stitch,Samsung S24,D50,branca fraca,0.7435,2287.61
+Stitch,Samsung S24,D65,branca forte,0.8337,1436.28
+Stitch,Samsung S24,INC100,amarela forte,0.8358,873.62
+Stitch,Samsung S24,INC40,amarela fraca,0.7977,1159.81
+Stitch,Sony DSC-H50,D50,branca fraca,0.6268,6096.57
+Stitch,Sony DSC-H50,D65,branca forte,0.7735,1855.41
+Stitch,Sony DSC-H50,INC100,amarela forte,0.8034,1442.72
+Stitch,Sony DSC-H50,INC40,amarela fraca,0.6554,5960.15
+Stitch,iPhone 15 Pro,D50,branca fraca,0.8105,3427.3
+Stitch,iPhone 15 Pro,D65,branca forte,0.8637,2148.76
+Stitch,iPhone 15 Pro,INC100,amarela forte,0.8634,1426.29
+Stitch,iPhone 15 Pro,INC40,amarela fraca,0.8595,1389.85
+Urso,Samsung S20 FE,D50,branca fraca,0.6867,2141.37
+Urso,Samsung S20 FE,D65,branca forte,0.7982,1157.07
+Urso,Samsung S20 FE,INC100,amarela forte,0.7492,1545.61
+Urso,Samsung S20 FE,INC40,amarela fraca,0.7444,1917.99
+Urso,Samsung S24,D50,branca fraca,0.7842,3008.68
+Urso,Samsung S24,D65,branca forte,0.837,1437.89
+Urso,Samsung S24,INC100,amarela forte,0.8129,1874.66
+Urso,Samsung S24,INC40,amarela fraca,0.8022,1978.74
+Urso,Sony DSC-H50,D50,branca fraca,0.5976,7208.03
+Urso,Sony DSC-H50,D65,branca forte,0.7951,1705.23
+Urso,Sony DSC-H50,INC100,amarela forte,0.7652,2281.98
+Urso,Sony DSC-H50,INC40,amarela fraca,0.6115,7768.32
+Urso,iPhone 15 Pro,D50,branca fraca,0.8388,2079.12
+Urso,iPhone 15 Pro,D65,branca forte,0.8405,2211.91
+Urso,iPhone 15 Pro,INC100,amarela forte,0.8266,2453.75
+Urso,iPhone 15 Pro,INC40,amarela fraca,0.8075,3216.83
